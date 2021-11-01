@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Sebastian Viasus and I'm a developer and designer from Boston.
+My name is Sebastian Viasus and I'm a designer from Boston.
 
 👉 [Check out my portifolio page]( https://www.sebastianviasus.com/ ) 👈
 
-- 🔭 I’m currently working on developing my design and UI development skills! 
+- 🔭 I’m currently working on AI-based automated checkout systems! 
 
-- 🌱 I’m currently learning React & Figma 
-
-- 👯 I’m looking to collaborate on creative programming projects!
+- 👯 I like creative coding that's inspired by nature!
 
 - 💬 Ask me about biomechanics!
 
