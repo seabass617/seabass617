@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Sebastian Viasus and I'm a designer from Boston.
+My name is Sebastian Viasus and I'm a UX designer from Boston.
 
 👉 [Check out my portifolio page]( https://www.sebastianviasus.com/ ) 👈
 
-- 🔭 I’m currently working on AI-based automated checkout systems! 
+- 🔭 I’m currently designing an AI-based automated checkout system! 
 
 - 👯 I like creative coding that's inspired by nature!
 
