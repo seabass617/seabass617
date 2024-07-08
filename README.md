@@ -4,7 +4,7 @@ My name is Sebastian Viasus and I'm a Product Designer from Boston.
 
 👉 [Check out my portifolio page]( https://www.sebastianviasus.com/ ) 👈
 
-- 🔭 I’ve worked at startups making workers' comp web apps and AI-based automated checkout systems! 
+- 🔭 I’ve worked at startups designing workers' comp web apps and AI-based automated checkout systems! 
 
 - 👯 I like creative coding that's inspired by nature!
 
