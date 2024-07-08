@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My name is Sebastian Viasus and I'm a UX designer from Boston.
+My name is Sebastian Viasus and I'm a Product Designer from Boston.
 
 👉 [Check out my portifolio page]( https://www.sebastianviasus.com/ ) 👈
 
-- 🔭 I’m currently designing an AI-based automated checkout system! 
+- 🔭 I’ve worked at startups making workers' comp web apps and AI-based automated checkout systems! 
 
 - 👯 I like creative coding that's inspired by nature!
 
 - 💬 Ask me about biomechanics!
 
-- ⚡ Fun fact: I love rock climbing and the highest wall I've sent was 1300ft!
+- ⚡ Fun fact: I love rock climbing and the highest wall I've climb was 1300ft!
 
 ### Projects I've made / contributed to...
 
