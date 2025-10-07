@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Sebastian Viasus and I'm a Product Designer from Boston.
+My name is Sebastian Viasus, and I'm a tinkerer/designer from Boston. I like working with my hands and making sure things work for people the best that they can. 
 
-👉 [Check out my portifolio page]( https://www.sebastianviasus.com/ ) 👈
+👉 [Check out my product design work here]( https://www.sebastianviasus.com/ ) 👈
 
-- 🔭 I’ve worked at startups designing workers' comp web apps and AI-based automated checkout systems! 
+- 🔭 I’ve worked at startups designing workers' comp web apps, e-learning platforms, and AI-based automated checkout systems! 
 
-- 👯 I like creative coding that's inspired by nature!
+- 🚧 I was a project engineer in the construction industry for two years!
 
-- 💬 Ask me about biomechanics!
+- 🌋 I studied physics in undergrad and did research in geophysics and biomechanics!
 
 - ⚡ Fun fact: I love rock climbing and the highest wall I've climb was 1300ft!
 
