@@ -2,7 +2,7 @@
 
 My name is Sebastian Viasus, and I'm a tinkerer/designer from Boston. I like working with my hands and making sure things work for people the best that they can. 
 
-👉 [Check out my product design work here]( https://www.sebastianviasus.com/ ) 👈
+👉 [Check out my product design work and other special projects here]( https://www.sebastianviasus.com/ ) 👈
 
 - 🔭 I’ve worked at startups designing workers' comp web apps, e-learning platforms, and AI-based automated checkout systems! 
 
