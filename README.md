@@ -30,3 +30,5 @@ My name is Sebastian Viasus, and I'm a tinkerer/designer from Boston. I like wor
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo==redux)
 ![Rails]( https://img.shields.io/badge/-Rails-red?style=flat-square&logo=ruby-on-rails)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
